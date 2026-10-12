@@ -18,7 +18,7 @@ An English text encrypted with a monoalphabetic substitution cipher was broken b
 | 2 | Q → h, T → a | `tQe` → "the" (the most common word); `thTt` → "that" |
 | 3 | X → i, P → s, G → n | Two-letter words `Xt`, `XP`, `XG` → "it", "is", "in" |
 | 4 | N → o, O → d | `tN` → "to"; `anO` → "and" |
-| 5 | I → r, S → l, J → g, U → p, H → c, F → y | `theiI` → "their"; title `teSeJraUh` → "telegraph"; `HryptograUhF` → "cryptography" |
+| 5 | I → r, S → l, J → g, U → p, H → c, F → y | `theiI` → "their"; title `teSeJraUh` → "telegraph"; `HrFptographF` → "cryptography" |
 | 6 | Z → m, D → u, C → f, R → w, A → b | "made", "Samuel", "for", "what", "published" |
 | 7 | K → v, L → k, Y → x, M → z, B → q, E → j | "vocabulary", "key", "next", "dozens", "equal", "just" |
 

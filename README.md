@@ -6,5 +6,6 @@
 | # | Topic | Folder |
 |---|---|---|
 | 1 | Caesar cipher and Caesar cipher with a keyword permutation (Romanian alphabet) | [`lab1-caesar-cipher`](lab1-caesar-cipher/) |
+| 2 | Cryptanalysis of monoalphabetic ciphers – frequency analysis (variant 15) | [`lab2-frequency-analysis`](lab2-frequency-analysis/) |
 
-Each lab folder contains the source code, a README with instructions for running it, and the report.
+Each lab folder contains a README, the report and, where the lab needs it, the source code.

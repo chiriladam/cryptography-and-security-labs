@@ -1,0 +1,43 @@
+the telegraph made cryptography what it is today. samuel f. b. morsesent "what hath god
+wrought!" in 1844. the next year his lawyer andpromotional agent, francis o. j. smith, published
+a commercial codeentitled the secret corresponding vocabulary; adapted for use to
+morse'selectro-magnetic telegraph, in whose preface he declared that "secrecy
+incorrespondence, is far the most important consideration." this wasprovided by a super-
+encipherment.as the most exciting invention of the first half of the century,
+thetelegraph stirred as much interest in its day as sputnik did in its. thegreat and widely
+felt need for secrecy awakened the latent interest inciphers that so many people seem to
+have, and kindled a new interest inmany others. dozens of persons attempted to dream up their
+ownunbreakable ciphers. their contributions enriched it with dozens of newcipher
+systems.as businessmen and the public used the telegraph more and more,they found that
+their fears about lack of privacy were exaggerated. theclerks dealt impersonally with the
+messages. the telegraph companiesrespected their confidentiality. and commercial codes like
+smith's, whichreplaced words and phrases by single codewords or code-numbers to cut telegraph
+tolls, afforded sufficient security for mostbusiness transactions by simply precluding an
+at-sight comprehension ofthe meaning. the brokers and traders soon realized that the
+mainadvantage of these codes was their economy.government ministries used the telegraph,
+too. at first they musthave encoded with their nomenclators. but although secrecy
+wasparamount for them, they liked the telegraphic economy of a large code—especially as they
+telegraphed more and more. so when the time arrivedto compile a new nomenclator, they abandoned
+that form, copied thecommercial form, and produced a full-fledged code. the nomenclatorshad
+had their 1,- or 2,000 code-numbers in mixed order, but the warand foreign ministries balked at
+the expense of drawing up a 50,000-entry code in two parts, and they had no professional
+cryptanalysts towarn them of the danger of the one-part format. they relied for securityupon
+small editions, big safes, extensive lexicon (large codes are harderto break than small ones,
+other things being equal), andsuperencipherment, retaining codenumbers to facilitate this
+instead ofswitching to codewords. this evolution was essentially complete by the1860s.
+the large, one-part code had replaced the small, two-partnomenclator in high-level military and
+diplomatic cryptography.meanwhile, the telegraph, author of this development, was
+creatingsomething new in war—signal communications, or voluminous commandand reconnaissance
+messages. of course such messages had existedbefore, with torches, pigeons, and couriers, but
+in so rarefied a form thatthey were not even called "signal communications." the
+telegraphenabled commanders, for the first time in history, to exert instantaneousand
+continuous control over great masses of men spread over largeareas.these tactical messages
+required protection: telegraph wires could betapped. neither the old nomenclator nor the
+new code would do. theywere too easy to capture in combat, too hard to reissue quickly
+andfrequently to the numerous and widespread telegraph posts. signalofficers turned away from
+them. they looked instead to that neglectedchild of cryptography, the cipher. ciphers could
+be printed cheaply on asingle sheet of paper and distributed with ease. secrecy was based
+uponvariable keys, so capture of the general system and even of one of thekeys would not
+compromise all an army's secret messages. solutionswould be prevented by rapid key changes.
+ciphers were ideal for battle-zone messages, and the first of the modern wars, the american
+civil war,used them for just that. thus was born a new genre in cryptography: thefield cipher.
